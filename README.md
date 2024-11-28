@@ -1,0 +1,1 @@
+Création d’un script Python permettant une analyse automatisée de données issues de capteurs mesurant plusieurs paramètres clés pour la croissance du quinoa en conditions salée et non salée![image](https://github.com/user-attachments/assets/63b09f5a-9506-40b0-b86e-c157ab2f2826)
