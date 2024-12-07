@@ -9,4 +9,6 @@ During this project, I acquired new Python skills that I didn't have before, inc
 
 These skills have been essential in developing a more efficient and scalable solution for analyzing complex environmental data.
 
-[image](https://github.com/user-attachments/assets/63b09f5a-9506-40b0-b86e-c157ab2f2826)
+(https://github.com/user-attachments/assets/63b09f5a-9506-40b0-b86e-c157ab2f2826)
+
+![image](https://github.com/user-attachments/assets/393fedf1-0c04-4112-87a6-11b9fa058cc3)
